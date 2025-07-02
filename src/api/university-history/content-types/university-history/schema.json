@@ -1,10 +1,10 @@
 {
   "kind": "collectionType",
-  "collectionName": "university_infos",
+  "collectionName": "university_histories",
   "info": {
-    "singularName": "university-info",
-    "pluralName": "university-infos",
-    "displayName": "UniversityInfo"
+    "singularName": "university-history",
+    "pluralName": "university-histories",
+    "displayName": "UniversityHistory "
   },
   "options": {
     "draftAndPublish": true
@@ -15,7 +15,7 @@
     }
   },
   "attributes": {
-    "visionmission": {
+    "TimeLine": {
       "type": "json",
       "pluginOptions": {
         "i18n": {
